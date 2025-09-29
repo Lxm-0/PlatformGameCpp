@@ -1,0 +1,5 @@
+﻿  platformGame.cpp
+C:\Users\malak abd alqwy\source\repos\platformGame\platformGame\Fox.h(60,1): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\malak abd alqwy\source\repos\platformGame\platformGame\Fox.h(90,1): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\malak abd alqwy\source\repos\platformGame\platformGame\Game.h(155,19): warning C4552: '!': result of expression not used
+  platformGame.vcxproj -> C:\Users\malak abd alqwy\source\repos\platformGame\x64\Debug\platformGame.exe
